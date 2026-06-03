@@ -15,6 +15,13 @@ An automated system designed to monitor and detect unauthorized mining activitie
 
 ---
 
+
+## Demo/Screenshots
+![image.png](assets/1.png)
+![image.png](assets/2.png)
+![image.png](assets/3.png)
+
+
 ## About the Project
 
 ### The Problem
